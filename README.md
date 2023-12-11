@@ -1,4 +1,4 @@
-# Computational geometryp <a href="https://emoji.gg/emoji/8557-bouncingsylveon"><img src="https://cdn3.emoji.gg/emojis/4236-blonde-neko-cry.gif" width="30px" height="30px" alt="BouncingSylveon"></a><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FE-Kozyreva%2Fconstructing_minimal_convex_hull&count_bg=%23F9D716&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%E3%85%A4&edge_flat=false"/>
+# Computational geometry <a href="https://emoji.gg/emoji/8557-bouncingsylveon"><img src="https://cdn3.emoji.gg/emojis/4236-blonde-neko-cry.gif" width="30px" height="30px" alt="BouncingSylveon"></a><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FE-Kozyreva%2Fconstructing_minimal_convex_hull&count_bg=%23F9D716&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%E3%85%A4&edge_flat=false"/>
 
 <details><summary><h2>Реализация:</h2></summary>
   <ul>
